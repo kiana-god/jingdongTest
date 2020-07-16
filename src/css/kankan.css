@@ -1,0 +1,24 @@
+#box1 {
+  font-size: 16px;
+  border-bottom: 1px solid red; }
+
+#box2 {
+  border: 2px solid pink; }
+  #box2 .banner {
+    width: 500px;
+    height: 400px;
+    background-color: orange;
+    border-bottom: 5px solid green;
+    border-right: 2px solid black; }
+
+#box3 {
+  width: 200px;
+  height: 150px;
+  background-color: red;
+  color: white; }
+
+#box5 {
+  width: 300px;
+  height: 200px;
+  background: blue;
+  color: pink; }
